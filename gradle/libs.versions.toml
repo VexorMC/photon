@@ -1,0 +1,6 @@
+[versions]
+loom = "1.7-SNAPSHOT"
+
+[plugins]
+loom = { id = "fabric-loom", version.ref = "loom" }
+loom-legacy = { id = "legacy-looming", version.ref = "loom" }

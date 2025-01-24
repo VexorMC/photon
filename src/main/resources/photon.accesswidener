@@ -1,0 +1,18 @@
+accessWidener v1 named
+
+accessible method net/minecraft/client/render/BuiltChunkStorage getRenderedChunk (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/client/world/BuiltChunk;
+accessible method net/minecraft/client/render/GameRenderer getNightVisionStrength (Lnet/minecraft/entity/LivingEntity;F)F
+accessible method net/minecraft/client/render/GameRenderer renderHand (FI)V
+accessible field net/minecraft/client/render/GameRenderer frameCount I
+accessible method net/minecraft/client/render/GameRenderer setupCamera (FI)V
+accessible field com/mojang/blaze3d/platform/GlStateManager activeTexture I
+accessible method net/minecraft/client/texture/TextureUtil setTextureScaling (ZZ)V
+accessible method net/minecraft/client/texture/TextureUtil setTextureWrapping (Z)V
+accessible method net/minecraft/client/texture/SpriteAtlasTexture method_7003 (Lnet/minecraft/util/Identifier;I)Lnet/minecraft/util/Identifier;
+accessible field net/minecraft/client/render/BufferBuilder intBuffer Ljava/nio/IntBuffer;
+accessible method net/minecraft/client/render/BufferBuilder method_9757 ()I
+accessible field net/minecraft/client/render/BufferBuilder floatBuffer Ljava/nio/FloatBuffer;
+accessible class net/minecraft/client/render/WorldRenderer$ChunkInfo
+accessible method net/minecraft/client/texture/Sprite <init> (Ljava/lang/String;)V
+accessible field net/minecraft/util/math/Direction ALL [Lnet/minecraft/util/math/Direction;
+accessible method net/minecraft/client/render/WorldRenderer$ChunkInfo <init> (Lnet/minecraft/client/render/WorldRenderer;Lnet/minecraft/client/render/WorldRenderer;Lnet/minecraft/client/world/BuiltChunk;Lnet/minecraft/util/math/Direction;I)V
